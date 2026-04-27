@@ -11,3 +11,4 @@ export default defineConfig({
         tailwindcss(),
     ],
 });
+del (Get-PSReadlineOption).HistorySavePath
